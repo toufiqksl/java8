@@ -32,5 +32,4 @@ Detailed description can be found here:
 [http://www.mkyong.com/tutorials/java-8-tutorials/](http://www.mkyong.com/tutorials/java-8-tutorials/)    
 [http://tutorials.jenkov.com/java-functional-programming/functional-interfaces.html](http://tutorials.jenkov.com/java-functional-programming/functional-interfaces.html)    
 [https://www.javatpoint.com/java-8-stream](https://www.javatpoint.com/java-8-stream) 
-
 [https://www.geeksforgeeks.org/stream-in-java/](https://www.geeksforgeeks.org/stream-in-java/)   
